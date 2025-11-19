@@ -52,9 +52,9 @@
 
 
 ## Full Analysis Notebook
-[part1_understanding_electricity_consumption.ipynb](./notebooks/part1_understanding_electricity_consumption.ipynb)
+[Part1 Understanding Electricity Consumption](./notebooks/part1_understanding_electricity_consumption.ipynb)
 
-[part2_predicting_electricity_consumption.ipynb](./notebooks/part2_predicting_electricity_consumption.ipynb)
+[Part2 Predicting Electricity Consumption](./notebooks/part2_predicting_electricity_consumption.ipynb)
 
 
 ## Analysis Workflow
